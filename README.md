@@ -17,22 +17,20 @@
 
 
 <div>
-   <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <div/>
   
-  <!-- 
-<div> <a href= "https://www.linkedin.com/in/annabeatriznf/">
-   <img height="60em" src="https://cdn.discordapp.com/attachments/703433153641054270/1080693633214328863/download20230304002859.png" />
+ <div> <a href= "https://www.linkedin.com/in/annabeatriznf/">
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 <div/>
--->
   
-  ##
+  
   
 <div style="display: inline_block"><br>
   <img aligh="center" alt=bia-anime src="https://media.discordapp.net/attachments/703433153641054270/1080693633214328863/download20230304002859.png?width=422&height=422" />
 <div/>
   
-  
+  ##
   
  <!-- 
  sites interessantes 
