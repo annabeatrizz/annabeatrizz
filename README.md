@@ -1,8 +1,9 @@
 ### Hey, hello 👋
-#### Eu sou a Anna Beatriz (tõ aqui só de curiosa mesmo)
+#### Eu sou a Anna Beatriz (tô aqui só de curiosa mesmo)
 
 ##
 
+<!--
 🔭 I’m currently working on ...
 
 🌱 I’m currently learning ...
@@ -12,6 +13,7 @@
 💬 Ask me about ...
 
 ⚡ Fun fact: ...
+ -->
 
 👩‍🎨 Tool: 
 
