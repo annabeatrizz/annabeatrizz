@@ -1,5 +1,5 @@
 ### Hey, hello 👋
-#### Eu sou a Anna Beatriz
+#### Eu sou a Anna Beatriz (tõ aqui só de curiosa mesmo)
 
 ##
 
